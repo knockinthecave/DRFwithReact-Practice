@@ -83,11 +83,11 @@ WSGI_APPLICATION = 'swintechProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'swintech',
-        'USER': 'jcast',
-        'PASSWORD': 'jnki1024',
-        'HOST': '211.170.81.147',
-        'PORT': '3306',       
+        'NAME': 'name',
+        'USER': 'user',
+        'PASSWORD': 'password',
+        'HOST': 'host',
+        'PORT': 'port',       
     }
 }
 
